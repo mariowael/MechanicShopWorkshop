@@ -1,0 +1,828 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Application\\Common\\Behaviours\\CachingBehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MechanicShopWorkshop-master\\src\\MechanicShop.Application\\Common\\Behaviours\\CachingBehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Application\\MechanicShop.Application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MechanicShopWorkshop-master\\src\\MechanicShop.Application\\MechanicShop.Application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Application\\DependencyInjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MechanicShopWorkshop-master\\src\\MechanicShop.Application\\DependencyInjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Identity\\RefreshToken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Identity\\RefreshToken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Identity\\RefreshTokenErrors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Identity\\RefreshTokenErrors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Identity\\Role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Identity\\Role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Customers\\Customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Customers\\Customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Customers\\CustomerErrors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Customers\\CustomerErrors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Workorders\\WorkOrderErrors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Workorders\\WorkOrderErrors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Workorders\\WorkOrder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Workorders\\WorkOrder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Workorders\\Events\\WorkOrderCollectionModified.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Workorders\\Events\\WorkOrderCollectionModified.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Workorders\\Events\\WorkOrderCompleted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Workorders\\Events\\WorkOrderCompleted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Workorders\\Enums\\Spot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Workorders\\Enums\\Spot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Workorders\\Enums\\WorkOrderState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Workorders\\Enums\\WorkOrderState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Common\\Results\\Result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Common\\Results\\Result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Common\\Results\\Abstractions\\IResult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Common\\Results\\Abstractions\\IResult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\RepairTasks\\RepairTask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\RepairTasks\\RepairTask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Employees\\Employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Employees\\Employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Common\\Results\\ErrorKind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Common\\Results\\ErrorKind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Common\\Results\\Error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Common\\Results\\Error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Common\\DomainEvent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Common\\DomainEvent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Common\\Entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Common\\Entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Common\\AuditableEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Common\\AuditableEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Common\\Constants\\MechanicShopConstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Common\\Constants\\MechanicShopConstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\requests\\requests.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MechanicShopWorkshop-master\\requests\\requests.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\RealTime\\SignalRWorkOrderNotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\RealTime\\SignalRWorkOrderNotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\RealTime\\WorkOrderHub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\RealTime\\WorkOrderHub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\DependencyInjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\DependencyInjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\Settings\\AppSettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\Settings\\AppSettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\Services\\WorkOrderPolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\Services\\WorkOrderPolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\Identity\\TokenProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\Identity\\TokenProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\BackgroundJobs\\OverdueBookingCleanupService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\BackgroundJobs\\OverdueBookingCleanupService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Api\\Services\\CurrentUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MechanicShopWorkshop-master\\src\\MechanicShop.Api\\Services\\CurrentUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\Services\\NotificationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\Services\\NotificationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Api\\Infrastructure\\GlobalExceptionHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MechanicShopWorkshop-master\\src\\MechanicShop.Api\\Infrastructure\\GlobalExceptionHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Api\\Extensions\\ProblemExtensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MechanicShopWorkshop-master\\src\\MechanicShop.Api\\Extensions\\ProblemExtensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Api\\Endpoints\\BillingEndpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MechanicShopWorkshop-master\\src\\MechanicShop.Api\\Endpoints\\BillingEndpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Api\\Controllers\\CustomersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MechanicShopWorkshop-master\\src\\MechanicShop.Api\\Controllers\\CustomersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Api\\Controllers\\ApiController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MechanicShopWorkshop-master\\src\\MechanicShop.Api\\Controllers\\ApiController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Api\\Controllers\\IdentityController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MechanicShopWorkshop-master\\src\\MechanicShop.Api\\Controllers\\IdentityController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\Identity\\IdentityService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\Identity\\IdentityService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\Identity\\AppUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\Identity\\AppUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Workorders\\Billing\\Invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Workorders\\Billing\\Invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Customers\\Vehicles\\Vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Customers\\Vehicles\\Vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\Data\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\Data\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\Data\\ApplicationDbContextInitialiser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\Data\\ApplicationDbContextInitialiser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\Data\\Interceptors\\AuditableEntityInterceptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\Data\\Interceptors\\AuditableEntityInterceptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\Data\\Configurations\\EmployeeConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\Data\\Configurations\\EmployeeConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\Data\\Configurations\\RefreshTokenConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\Data\\Configurations\\RefreshTokenConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CachingBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Application\\Common\\Behaviours\\CachingBehavior.cs",
+              "RelativeDocumentMoniker": "MechanicShopWorkshop-master\\src\\MechanicShop.Application\\Common\\Behaviours\\CachingBehavior.cs",
+              "ToolTip": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Application\\Common\\Behaviours\\CachingBehavior.cs",
+              "RelativeToolTip": "MechanicShopWorkshop-master\\src\\MechanicShop.Application\\Common\\Behaviours\\CachingBehavior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T16:39:51.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MechanicShop.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Application\\MechanicShop.Application.csproj",
+              "RelativeDocumentMoniker": "MechanicShopWorkshop-master\\src\\MechanicShop.Application\\MechanicShop.Application.csproj",
+              "ToolTip": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Application\\MechanicShop.Application.csproj",
+              "RelativeToolTip": "MechanicShopWorkshop-master\\src\\MechanicShop.Application\\MechanicShop.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-26T16:39:46.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "MechanicShopWorkshop-master\\src\\MechanicShop.Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "MechanicShopWorkshop-master\\src\\MechanicShop.Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T16:39:33.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Identity\\Role.cs",
+              "RelativeDocumentMoniker": "MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Identity\\Role.cs",
+              "ToolTip": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Identity\\Role.cs",
+              "RelativeToolTip": "MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Identity\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T16:38:57.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WorkOrderErrors.cs",
+              "DocumentMoniker": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Workorders\\WorkOrderErrors.cs",
+              "RelativeDocumentMoniker": "MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Workorders\\WorkOrderErrors.cs",
+              "ToolTip": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Workorders\\WorkOrderErrors.cs",
+              "RelativeToolTip": "MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Workorders\\WorkOrderErrors.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T16:35:05.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WorkOrderCompleted.cs",
+              "DocumentMoniker": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Workorders\\Events\\WorkOrderCompleted.cs",
+              "RelativeDocumentMoniker": "MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Workorders\\Events\\WorkOrderCompleted.cs",
+              "ToolTip": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Workorders\\Events\\WorkOrderCompleted.cs",
+              "RelativeToolTip": "MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Workorders\\Events\\WorkOrderCompleted.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T16:33:49.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WorkOrder.cs",
+              "DocumentMoniker": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Workorders\\WorkOrder.cs",
+              "RelativeDocumentMoniker": "MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Workorders\\WorkOrder.cs",
+              "ToolTip": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Workorders\\WorkOrder.cs",
+              "RelativeToolTip": "MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Workorders\\WorkOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T16:33:00.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RefreshTokenErrors.cs",
+              "DocumentMoniker": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Identity\\RefreshTokenErrors.cs",
+              "RelativeDocumentMoniker": "MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Identity\\RefreshTokenErrors.cs",
+              "ToolTip": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Identity\\RefreshTokenErrors.cs",
+              "RelativeToolTip": "MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Identity\\RefreshTokenErrors.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T15:38:28.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Customers\\Customer.cs",
+              "RelativeDocumentMoniker": "MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Customers\\Customer.cs",
+              "ToolTip": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Customers\\Customer.cs",
+              "RelativeToolTip": "MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Customers\\Customer.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAADwvykAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T16:34:18.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerErrors.cs",
+              "DocumentMoniker": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Customers\\CustomerErrors.cs",
+              "RelativeDocumentMoniker": "MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Customers\\CustomerErrors.cs",
+              "ToolTip": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Customers\\CustomerErrors.cs",
+              "RelativeToolTip": "MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Customers\\CustomerErrors.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T17:34:17.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Identity\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Identity\\RefreshToken.cs",
+              "ToolTip": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Identity\\RefreshToken.cs",
+              "RelativeToolTip": "MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Identity\\RefreshToken.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T15:38:19.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IResult.cs",
+              "DocumentMoniker": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Common\\Results\\Abstractions\\IResult.cs",
+              "RelativeDocumentMoniker": "MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Common\\Results\\Abstractions\\IResult.cs",
+              "ToolTip": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Common\\Results\\Abstractions\\IResult.cs",
+              "RelativeToolTip": "MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Common\\Results\\Abstractions\\IResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T17:37:25.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RepairTask.cs",
+              "DocumentMoniker": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\RepairTasks\\RepairTask.cs",
+              "RelativeDocumentMoniker": "MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\RepairTasks\\RepairTask.cs",
+              "ToolTip": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\RepairTasks\\RepairTask.cs",
+              "RelativeToolTip": "MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\RepairTasks\\RepairTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T15:38:34.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Employees\\Employee.cs",
+              "RelativeDocumentMoniker": "MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Employees\\Employee.cs",
+              "ToolTip": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Employees\\Employee.cs",
+              "RelativeToolTip": "MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Employees\\Employee.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T15:38:03.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WorkOrderCollectionModified.cs",
+              "DocumentMoniker": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Workorders\\Events\\WorkOrderCollectionModified.cs",
+              "RelativeDocumentMoniker": "MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Workorders\\Events\\WorkOrderCollectionModified.cs",
+              "ToolTip": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Workorders\\Events\\WorkOrderCollectionModified.cs",
+              "RelativeToolTip": "MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Workorders\\Events\\WorkOrderCollectionModified.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T17:44:13.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DomainEvent.cs",
+              "DocumentMoniker": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Common\\DomainEvent.cs",
+              "RelativeDocumentMoniker": "MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Common\\DomainEvent.cs",
+              "ToolTip": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Common\\DomainEvent.cs",
+              "RelativeToolTip": "MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Common\\DomainEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T17:42:15.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WorkOrderState.cs",
+              "DocumentMoniker": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Workorders\\Enums\\WorkOrderState.cs",
+              "RelativeDocumentMoniker": "MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Workorders\\Enums\\WorkOrderState.cs",
+              "ToolTip": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Workorders\\Enums\\WorkOrderState.cs",
+              "RelativeToolTip": "MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Workorders\\Enums\\WorkOrderState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T17:44:22.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Spot.cs",
+              "DocumentMoniker": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Workorders\\Enums\\Spot.cs",
+              "RelativeDocumentMoniker": "MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Workorders\\Enums\\Spot.cs",
+              "ToolTip": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Workorders\\Enums\\Spot.cs",
+              "RelativeToolTip": "MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Workorders\\Enums\\Spot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T17:44:20.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Common\\Entity.cs",
+              "RelativeDocumentMoniker": "MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Common\\Entity.cs",
+              "ToolTip": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Common\\Entity.cs*",
+              "RelativeToolTip": "MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Common\\Entity.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T17:33:27.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AuditableEntity.cs",
+              "DocumentMoniker": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Common\\AuditableEntity.cs",
+              "RelativeDocumentMoniker": "MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Common\\AuditableEntity.cs",
+              "ToolTip": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Common\\AuditableEntity.cs",
+              "RelativeToolTip": "MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Common\\AuditableEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T17:42:30.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Common\\Results\\Result.cs",
+              "RelativeDocumentMoniker": "MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Common\\Results\\Result.cs",
+              "ToolTip": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Common\\Results\\Result.cs*",
+              "RelativeToolTip": "MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Common\\Results\\Result.cs*",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAAFkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T17:43:01.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MechanicShopConstants.cs",
+              "DocumentMoniker": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Common\\Constants\\MechanicShopConstants.cs",
+              "RelativeDocumentMoniker": "MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Common\\Constants\\MechanicShopConstants.cs",
+              "ToolTip": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Common\\Constants\\MechanicShopConstants.cs",
+              "RelativeToolTip": "MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Common\\Constants\\MechanicShopConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T17:37:18.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ErrorKind.cs",
+              "DocumentMoniker": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Common\\Results\\ErrorKind.cs",
+              "RelativeDocumentMoniker": "MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Common\\Results\\ErrorKind.cs",
+              "ToolTip": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Common\\Results\\ErrorKind.cs",
+              "RelativeToolTip": "MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Common\\Results\\ErrorKind.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T17:43:46.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Error.cs",
+              "DocumentMoniker": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Common\\Results\\Error.cs",
+              "RelativeDocumentMoniker": "MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Common\\Results\\Error.cs",
+              "ToolTip": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Common\\Results\\Error.cs",
+              "RelativeToolTip": "MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Common\\Results\\Error.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T17:43:50.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "WorkOrderPolicy.cs",
+              "DocumentMoniker": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\Services\\WorkOrderPolicy.cs",
+              "RelativeDocumentMoniker": "MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\Services\\WorkOrderPolicy.cs",
+              "ToolTip": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\Services\\WorkOrderPolicy.cs",
+              "RelativeToolTip": "MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\Services\\WorkOrderPolicy.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T18:56:53.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-08T23:33:19.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\Settings\\AppSettings.cs",
+              "RelativeDocumentMoniker": "MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\Settings\\AppSettings.cs",
+              "ToolTip": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\Settings\\AppSettings.cs",
+              "RelativeToolTip": "MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\Settings\\AppSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-08T23:33:11.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CurrentUser.cs",
+              "DocumentMoniker": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Api\\Services\\CurrentUser.cs",
+              "RelativeDocumentMoniker": "MechanicShopWorkshop-master\\src\\MechanicShop.Api\\Services\\CurrentUser.cs",
+              "ToolTip": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Api\\Services\\CurrentUser.cs",
+              "RelativeToolTip": "MechanicShopWorkshop-master\\src\\MechanicShop.Api\\Services\\CurrentUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T18:56:18.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Api\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "MechanicShopWorkshop-master\\src\\MechanicShop.Api\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Api\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "MechanicShopWorkshop-master\\src\\MechanicShop.Api\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T18:54:43.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "WorkOrderHub.cs",
+              "DocumentMoniker": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\RealTime\\WorkOrderHub.cs",
+              "RelativeDocumentMoniker": "MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\RealTime\\WorkOrderHub.cs",
+              "ToolTip": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\RealTime\\WorkOrderHub.cs",
+              "RelativeToolTip": "MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\RealTime\\WorkOrderHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T18:52:48.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "requests.http",
+              "DocumentMoniker": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\requests\\requests.http",
+              "RelativeDocumentMoniker": "MechanicShopWorkshop-master\\requests\\requests.http",
+              "ToolTip": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\requests\\requests.http",
+              "RelativeToolTip": "MechanicShopWorkshop-master\\requests\\requests.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-08-23T16:31:14.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SignalRWorkOrderNotifier.cs",
+              "DocumentMoniker": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\RealTime\\SignalRWorkOrderNotifier.cs",
+              "RelativeDocumentMoniker": "MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\RealTime\\SignalRWorkOrderNotifier.cs",
+              "ToolTip": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\RealTime\\SignalRWorkOrderNotifier.cs",
+              "RelativeToolTip": "MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\RealTime\\SignalRWorkOrderNotifier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T18:52:39.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "BillingEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Api\\Endpoints\\BillingEndpoints.cs",
+              "RelativeDocumentMoniker": "MechanicShopWorkshop-master\\src\\MechanicShop.Api\\Endpoints\\BillingEndpoints.cs",
+              "ToolTip": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Api\\Endpoints\\BillingEndpoints.cs",
+              "RelativeToolTip": "MechanicShopWorkshop-master\\src\\MechanicShop.Api\\Endpoints\\BillingEndpoints.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T18:54:50.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ProblemExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Api\\Extensions\\ProblemExtensions.cs",
+              "RelativeDocumentMoniker": "MechanicShopWorkshop-master\\src\\MechanicShop.Api\\Extensions\\ProblemExtensions.cs",
+              "ToolTip": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Api\\Extensions\\ProblemExtensions.cs",
+              "RelativeToolTip": "MechanicShopWorkshop-master\\src\\MechanicShop.Api\\Extensions\\ProblemExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T18:55:08.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "OverdueBookingCleanupService.cs",
+              "DocumentMoniker": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\BackgroundJobs\\OverdueBookingCleanupService.cs",
+              "RelativeDocumentMoniker": "MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\BackgroundJobs\\OverdueBookingCleanupService.cs",
+              "ToolTip": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\BackgroundJobs\\OverdueBookingCleanupService.cs",
+              "RelativeToolTip": "MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\BackgroundJobs\\OverdueBookingCleanupService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T20:38:37.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TokenProvider.cs",
+              "DocumentMoniker": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\Identity\\TokenProvider.cs",
+              "RelativeDocumentMoniker": "MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\Identity\\TokenProvider.cs",
+              "ToolTip": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\Identity\\TokenProvider.cs",
+              "RelativeToolTip": "MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\Identity\\TokenProvider.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T18:52:11.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "GlobalExceptionHandler.cs",
+              "DocumentMoniker": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Api\\Infrastructure\\GlobalExceptionHandler.cs",
+              "RelativeDocumentMoniker": "MechanicShopWorkshop-master\\src\\MechanicShop.Api\\Infrastructure\\GlobalExceptionHandler.cs",
+              "ToolTip": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Api\\Infrastructure\\GlobalExceptionHandler.cs",
+              "RelativeToolTip": "MechanicShopWorkshop-master\\src\\MechanicShop.Api\\Infrastructure\\GlobalExceptionHandler.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T18:55:44.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\Services\\NotificationService.cs",
+              "RelativeDocumentMoniker": "MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\Services\\NotificationService.cs",
+              "ToolTip": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\Services\\NotificationService.cs",
+              "RelativeToolTip": "MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\Services\\NotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T18:56:45.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ApiController.cs",
+              "DocumentMoniker": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Api\\Controllers\\ApiController.cs",
+              "RelativeDocumentMoniker": "MechanicShopWorkshop-master\\src\\MechanicShop.Api\\Controllers\\ApiController.cs",
+              "ToolTip": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Api\\Controllers\\ApiController.cs",
+              "RelativeToolTip": "MechanicShopWorkshop-master\\src\\MechanicShop.Api\\Controllers\\ApiController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T18:54:34.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IdentityController.cs",
+              "DocumentMoniker": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Api\\Controllers\\IdentityController.cs",
+              "RelativeDocumentMoniker": "MechanicShopWorkshop-master\\src\\MechanicShop.Api\\Controllers\\IdentityController.cs",
+              "ToolTip": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Api\\Controllers\\IdentityController.cs",
+              "RelativeToolTip": "MechanicShopWorkshop-master\\src\\MechanicShop.Api\\Controllers\\IdentityController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAACEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T18:53:54.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IdentityService.cs",
+              "DocumentMoniker": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\Identity\\IdentityService.cs",
+              "RelativeDocumentMoniker": "MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\Identity\\IdentityService.cs",
+              "ToolTip": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\Identity\\IdentityService.cs",
+              "RelativeToolTip": "MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\Identity\\IdentityService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T18:51:46.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\Identity\\AppUser.cs",
+              "RelativeDocumentMoniker": "MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\Identity\\AppUser.cs",
+              "ToolTip": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\Identity\\AppUser.cs",
+              "RelativeToolTip": "MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\Identity\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T18:51:41.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Workorders\\Billing\\Invoice.cs",
+              "RelativeDocumentMoniker": "MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Workorders\\Billing\\Invoice.cs",
+              "ToolTip": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Workorders\\Billing\\Invoice.cs",
+              "RelativeToolTip": "MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Workorders\\Billing\\Invoice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T17:44:26.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Customers\\Vehicles\\Vehicle.cs",
+              "RelativeDocumentMoniker": "MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Customers\\Vehicles\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Customers\\Vehicles\\Vehicle.cs",
+              "RelativeToolTip": "MechanicShopWorkshop-master\\src\\MechanicShop.Domain\\Customers\\Vehicles\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T17:34:31.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T20:40:09.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ApplicationDbContextInitialiser.cs",
+              "DocumentMoniker": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\Data\\ApplicationDbContextInitialiser.cs",
+              "RelativeDocumentMoniker": "MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\Data\\ApplicationDbContextInitialiser.cs",
+              "ToolTip": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\Data\\ApplicationDbContextInitialiser.cs",
+              "RelativeToolTip": "MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\Data\\ApplicationDbContextInitialiser.cs",
+              "ViewState": "AgIAAOMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T20:39:56.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "AuditableEntityInterceptor.cs",
+              "DocumentMoniker": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\Data\\Interceptors\\AuditableEntityInterceptor.cs",
+              "RelativeDocumentMoniker": "MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\Data\\Interceptors\\AuditableEntityInterceptor.cs",
+              "ToolTip": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\Data\\Interceptors\\AuditableEntityInterceptor.cs",
+              "RelativeToolTip": "MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\Data\\Interceptors\\AuditableEntityInterceptor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T20:39:34.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "EmployeeConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\Data\\Configurations\\EmployeeConfiguration.cs",
+              "RelativeDocumentMoniker": "MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\Data\\Configurations\\EmployeeConfiguration.cs",
+              "ToolTip": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\Data\\Configurations\\EmployeeConfiguration.cs",
+              "RelativeToolTip": "MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\Data\\Configurations\\EmployeeConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T20:39:28.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "RefreshTokenConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\Data\\Configurations\\RefreshTokenConfiguration.cs",
+              "RelativeDocumentMoniker": "MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\Data\\Configurations\\RefreshTokenConfiguration.cs",
+              "ToolTip": "C:\\Users\\it\\Downloads\\MechanicShopWorkshop\\MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\Data\\Configurations\\RefreshTokenConfiguration.cs",
+              "RelativeToolTip": "MechanicShopWorkshop-master\\src\\MechanicShop.Infrastructure\\Data\\Configurations\\RefreshTokenConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T20:39:18.866Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

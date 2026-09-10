@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MechanicShopWorkshop-master",
+    "\\MechanicShopWorkshop-master\\src",
+    "\\MechanicShopWorkshop-master\\src\\MechanicShop.Application\\Features\\Customers",
+    "\\MechanicShopWorkshop-master\\src\\MechanicShop.Application\\Features\\Dashboard",
+    "\\MechanicShopWorkshop-master\\src\\MechanicShop.Application\\Features\\Identity",
+    "\\MechanicShopWorkshop-master\\src\\MechanicShop.Application\\Features\\Labors",
+    "\\MechanicShopWorkshop-master\\src\\MechanicShop.Application\\Features\\RepairTasks",
+    "\\MechanicShopWorkshop-master\\src\\MechanicShop.Application\\Features\\Scheduling",
+    "\\MechanicShopWorkshop-master\\src\\MechanicShop.Application\\Features\\WorkOrders"
+  ],
+  "SelectedNode": "\\MechanicShopWorkshop-master\\src\\MechanicShop.Application",
+  "PreviewInSolutionExplorer": false
+}
